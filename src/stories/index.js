@@ -7,4 +7,4 @@ import SunActivity from '../components/SunActivity/SunActivity';
 
 storiesOf('Sun Activity', module)
   .add('LocationAndDateForm', () => <LocationAndDateForm />)
-  .add('SunActivity with times props', () => <SunActivity sunrise="06:30" sunset="20:00" />)
+  .add('SunActivity with times props', () => <SunActivity sunrise="07:30" sunset="20:00" />)
